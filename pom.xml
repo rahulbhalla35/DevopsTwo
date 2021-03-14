@@ -191,6 +191,5 @@
 			</testResource>
 		</testResources>
 		<finalName>devopssampleapplication</finalName>
-		
 	</build>
 </project>
